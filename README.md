@@ -2,7 +2,7 @@
 
 **Can we forecast how well a video game will sell before it launches?** Game development is high-cost and high-risk, so publishers want early signals about which projects to greenlight and which platforms to target. This project builds and compares regression models that predict a game's global unit sales from characteristics known before release: platform, genre, publisher, developer, release year, ESRB rating, and review scores.
 
-📓 [View the notebook](video_game_sales_model.ipynb) · 📄 [Read the write-up (PDF)](video_game_sales_writeup.pdf)
+📓 [Notebook](video_game_sales_model.ipynb) · 📄 [Paper](video_game_sales_writeup.pdf)
 
 ---
 
